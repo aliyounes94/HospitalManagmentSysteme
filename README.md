@@ -18,7 +18,6 @@ The patient can edit profile and modify personal information
 The patient can view all his Labresults wich added by doctor 
 ## Technology
 Technology used in the Hospital Management System project in java
-
 Front -End Jsp, Html, CSS, JS.
 Server-side: Servlet.
 Back-end: JSON.
