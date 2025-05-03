@@ -10,24 +10,38 @@ user redirect to dashboard by role so doctor redirect to doctor dashboard, and p
 ## Modules
 ### Doctor
 The doctor can search about patient by name.
+
 The doctor can VIEW the patient list.
+
 The doctor can add/view/update/delete LabResult for patients
+
 The doctor can delete patients
 ## Patient
 The patient can edit profile and modify personal information
+
 The patient can view all his Labresults wich added by doctor 
 ## Technology
 Technology used in the Hospital Management System project in java
+
 Front -End Jsp, Html, CSS, JS.
+
 Server-side: Servlet.
+
 Back-end: JSON.
+
 Server: Tomcat 9.
-##System requirements
+
+## System requirements
 Server: Tomcat 9.
+
 JAVA :17 OR ABOVE.
+
 Eclipse EE .
 ## Installation:
 Place The project at Eclipse wokplace 
+
 Open Eclipse platform.
+
 from menu select file-> open project then select the project.
+
 click run maven after finish click run on server then select Server: Tomcat 9.
